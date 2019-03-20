@@ -10,11 +10,7 @@ int main()
 {
     cout << "Hello World!" << endl;
 
-    cout << "Superman isn't here today" << endl;
-
     cout << "I'm Batman!" << endl;
-
-    cout << "My friend is Green Goblin!" << endl;
 
     cout << "We're visiting Iron Man" << endl;
 
@@ -29,6 +25,12 @@ int main()
     cout << "Bye World!" << endl;
 
     int x = 7;
+
+    int y = 13;
+    
+    int z;
+
+    z = x + y;
 
     return 0;
 }
