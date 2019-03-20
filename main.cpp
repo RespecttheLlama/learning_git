@@ -12,8 +12,6 @@ int main()
 
     cout << "I'm Batman!" << endl;
 
-    cout << "My friend is Green Goblin!" << endl;
-
     cout << "We're visiting Iron Man" << endl;
 
     cout << "Pepper Pots might be there" << endl;
@@ -24,11 +22,11 @@ int main()
 
     int x = 7;
 
-    int a = 3;
-
-    int b;
+    int y = 13;
     
-    b = a + x;
+    int z;
+
+    z = x + y;
 
     return 0;
 }
