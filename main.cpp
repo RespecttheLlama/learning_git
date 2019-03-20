@@ -28,5 +28,7 @@ int main()
 
     cout << "Bye World!" << endl;
 
+    int x = 5;
+
     return 0;
 }
