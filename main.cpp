@@ -12,25 +12,19 @@ int main()
 
     cout << "I'm Batman!" << endl;
 
-    cout << "We're visiting Iron Man" << endl;
-
-    cout << "Pepper Pots might be there" << endl;
-
-    cout << "Captain America is at work" << endl;
-
     cout << "Catwoman is coming along" << endl;
 
     cout << "The Hulk made cookies" << endl;
 
     cout << "Bye World!" << endl;
 
-    int x = 7;
+    int w = 5;
 
-    int y = 13;
-    
+    int y = 12;
+
     int z;
 
-    z = x + y;
+    z = x + y + 5;
 
     return 0;
 }
