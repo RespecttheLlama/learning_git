@@ -14,7 +14,7 @@ int main()
 
     cout << "I'm Batman!" << endl;
 
-    cout << "My friend is Spiderman!" << endl;
+    cout << "My friend is Green Goblin!" << endl;
 
     cout << "We're visiting Iron Man" << endl;
 
