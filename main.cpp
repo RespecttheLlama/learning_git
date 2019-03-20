@@ -18,6 +18,10 @@ int main()
 
     cout << "We're visiting Iron Man" << endl;
 
+    cout << "Catwoman is coming with" << endl;
+
+    cout << "The Hulk made cookies" << endl;
+
     cout << "Bye World!" << endl;
 
     return 0;
