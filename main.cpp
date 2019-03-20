@@ -10,8 +10,6 @@ int main()
 {
     cout << "Hello World!" << endl;
 
-    cout << "Superman isn't here today" << endl;
-
     cout << "I'm Batman!" << endl;
 
     cout << "My friend is Green Goblin!" << endl;
@@ -22,13 +20,15 @@ int main()
 
     cout << "Captain America is at work" << endl;
 
-    cout << "Catwoman is coming along" << endl;
-
     cout << "The Hulk made cookies" << endl;
 
-    cout << "Bye World!" << endl;
-
     int x = 7;
+
+    int a = 3;
+
+    int b;
+    
+    b = a + x;
 
     return 0;
 }
