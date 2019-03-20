@@ -10,7 +10,7 @@ int main()
 {
     cout << "Hello World!" << endl;
 
-    cout << "I'm Superman!" << endl;
+    cout << "Superman isn't here today" << endl;
 
     cout << "I'm Batman!" << endl;
 
@@ -18,7 +18,9 @@ int main()
 
     cout << "We're visiting Iron Man" << endl;
 
-    cout << "Captain America is staying home" << endl;
+    cout << "Pepper Pots might be there" << endl;
+
+    cout << "Captain America is at work" << endl;
 
     cout << "The Hulk made cookies" << endl;
 
