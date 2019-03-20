@@ -12,6 +12,12 @@ int main()
 
     cout << "I'm Superman!" << endl;
 
+    cout << "I'm Batman!" << endl;
+
+    cout << "My friend is Spiderman!" << endl;
+
+    cout << "We're visiting Iron Man" << endl;
+
     cout << "Bye World!" << endl;
 
     return 0;
