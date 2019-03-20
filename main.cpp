@@ -18,7 +18,7 @@ int main()
 
     cout << "We're visiting Iron Man" << endl;
 
-    cout << "Catwoman is staying home" << endl;
+    cout << "Captain America is staying home" << endl;
 
     cout << "The Hulk made cookies" << endl;
 
