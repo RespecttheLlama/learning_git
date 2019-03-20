@@ -24,7 +24,7 @@ int main()
 
     int z;
 
-    z = x + y + 5;
+    z = y + 5;
 
     return 0;
 }
