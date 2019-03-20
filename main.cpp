@@ -12,7 +12,7 @@ int main()
 
     cout << "I'm Batman!" << endl;
 
-    cout << "My friend is Spiderman" << endl;
+    cout << "My friend is Spiderman!" << endl;
 
     cout << "Bye World!" << endl;
 
