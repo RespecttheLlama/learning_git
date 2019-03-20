@@ -10,9 +10,7 @@ int main()
 {
     cout << "Hello World!" << endl;
 
-    cout << "I'm Batman!" << endl;
-
-    cout << "My friend is Spiderman" << endl;
+    cout << "I'm Superman!" << endl;
 
     cout << "Bye World!" << endl;
 
